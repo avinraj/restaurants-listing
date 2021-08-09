@@ -1,0 +1,16 @@
+
+@media only screen and (min-width: 600px) {
+  .searchSelect {
+    width: 50%;
+    min-height: 57px;
+    padding: 10px;
+    position: relative;
+    left: 25%;
+    right: 25%;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .searchSelect {
+    padding: 10px;
+  }
+}
